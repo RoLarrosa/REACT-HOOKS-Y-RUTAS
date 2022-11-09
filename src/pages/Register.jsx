@@ -2,6 +2,8 @@ import React from 'react'
 import { useState } from 'react'
 import { NavBar } from './../ui/NavBar'
 
+//LOGRA CARGAR UN NUEVO USUARIO A MI SERVIDOR(BASE DE DATOS)
+
 export const Register = () => {
 
   // const [name, setName] = useState('')

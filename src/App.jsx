@@ -5,7 +5,7 @@ const { Provider } = AuthContext
 
 function App() {
   const user = {
-    isLogged: false,
+    isLogged: true,
     username: 'Rocio'
   }
 

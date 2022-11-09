@@ -2,6 +2,8 @@ import React from 'react'
 import { useState } from 'react'
 import { NavBar } from './../ui/NavBar'
 
+//LOGRA TRAER EL TOKEN DE UN USUARIO CARGADO EN LA BASE DE DATOS DE MI SERVIDOR
+
 export const Login = () => {
 
   const options = {
